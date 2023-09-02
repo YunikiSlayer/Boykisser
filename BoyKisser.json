@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "name": "BoyKisser",
+        "version": "1.0.0",
+        "author": "Yuniki",
+        "updater": "https:\/\/raw.githubusercontent.com\/yunikislayer\/Boykisser\/main\/BoyKisser.json"
+    },
+    "background": {
+        "overlay_alpha": 170,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1147642179083325564\/1147664681557835846\/Boykisser.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
